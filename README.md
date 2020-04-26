@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![cdvv7788](https://circleci.com/gh/cdvv7788/kubernetes-project4.svg?style=svg)](https://github.com/cdvv7788/kubernetes-project4)
 
 ## Project Overview
 
