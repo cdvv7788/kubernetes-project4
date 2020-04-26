@@ -1,0 +1,8 @@
+pod/project4 created
+NAME                         READY   STATUS              RESTARTS   AGE
+load-generator               1/1     Running             0          19h
+php-apache-5986bb6b9-gjh6g   1/1     Running             0          19h
+project4                     0/1     ContainerCreating   0          0s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
